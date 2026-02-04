@@ -1,8 +1,7 @@
 # BizPub Issue Tracker
 
   This repository tracks data quality issues reported by users of
-  [BizPub.ai](https://bizpub.ai) — an autonomous database of business and
-  information systems research publications.
+  [BizPub.ai](https://bizpub.ai) — an autonomous database of business research publications.
 
   ## About BizPub.ai
 
